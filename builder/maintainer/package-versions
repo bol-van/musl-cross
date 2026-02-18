@@ -1,0 +1,2488 @@
+run_pkgversion \
+    master=autoconf \
+    masterpfx=AUTOCONF \
+    originpfx= \
+    pkg_name=autoconf \
+    pfx=AUTOCONF \
+    versionlocked= \
+    ver=2.72 \
+    kcfg=2_72
+run_pkgversion \
+    master=autoconf \
+    masterpfx=AUTOCONF \
+    originpfx= \
+    pkg_name=autoconf \
+    pfx=AUTOCONF \
+    versionlocked= \
+    ver=2.71 \
+    kcfg=2_71
+run_pkgversion \
+    master=autoconf \
+    masterpfx=AUTOCONF \
+    originpfx= \
+    pkg_name=autoconf \
+    pfx=AUTOCONF \
+    versionlocked= \
+    ver=2.69 \
+    kcfg=2_69
+run_pkgversion \
+    master=autoconf \
+    masterpfx=AUTOCONF \
+    originpfx= \
+    pkg_name=autoconf \
+    pfx=AUTOCONF \
+    versionlocked= \
+    ver=2.65 \
+    kcfg=2_65
+run_pkgversion \
+    master=automake \
+    masterpfx=AUTOMAKE \
+    originpfx= \
+    pkg_name=automake \
+    pfx=AUTOMAKE \
+    versionlocked= \
+    ver=1.17 \
+    kcfg=1_17
+run_pkgversion \
+    master=automake \
+    masterpfx=AUTOMAKE \
+    originpfx= \
+    pkg_name=automake \
+    pfx=AUTOMAKE \
+    versionlocked= \
+    ver=1.16.5 \
+    kcfg=1_16
+run_pkgversion \
+    master=automake \
+    masterpfx=AUTOMAKE \
+    originpfx= \
+    pkg_name=automake \
+    pfx=AUTOMAKE \
+    versionlocked= \
+    ver=1.15.1 \
+    kcfg=1_15
+run_pkgversion \
+    master=avr-libc \
+    masterpfx=AVR_LIBC \
+    originpfx= \
+    pkg_name=avr-libc \
+    pfx=AVR_LIBC \
+    versionlocked= \
+    ver=2.2.1 \
+    kcfg=2_2_1
+run_pkgversion \
+    master=avr-libc \
+    masterpfx=AVR_LIBC \
+    originpfx= \
+    pkg_name=avr-libc \
+    pfx=AVR_LIBC \
+    versionlocked= \
+    ver=2.1.0 \
+    kcfg=2_1_0
+run_pkgversion \
+    master=avr-libc \
+    masterpfx=AVR_LIBC \
+    originpfx= \
+    pkg_name=avr-libc \
+    pfx=AVR_LIBC \
+    versionlocked= \
+    ver=2.0.0 \
+    kcfg=2_0_0
+run_pkgversion \
+    master=avr-libc \
+    masterpfx=AVR_LIBC \
+    originpfx= \
+    pkg_name=avr-libc \
+    pfx=AVR_LIBC \
+    versionlocked= \
+    ver=1.8.1 \
+    kcfg=1_8_1
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.45 \
+    kcfg=2_45
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.44 \
+    kcfg=2_44
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.43.1 \
+    kcfg=2_43
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.42 \
+    kcfg=2_42
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.41 \
+    kcfg=2_41
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.40 \
+    kcfg=2_40
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.39 \
+    kcfg=2_39
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.38 \
+    kcfg=2_38
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.37 \
+    kcfg=2_37
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.36.1 \
+    kcfg=2_36
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.35.1 \
+    kcfg=2_35
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.34 \
+    kcfg=2_34
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.33.1 \
+    kcfg=2_33
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.32 \
+    kcfg=2_32
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.31.1 \
+    kcfg=2_31
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.30 \
+    kcfg=2_30
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.29.1 \
+    kcfg=2_29
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.28.1 \
+    kcfg=2_28
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.27 \
+    kcfg=2_27
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=GNU \
+    pkg_name=binutils \
+    pfx=BINUTILS \
+    versionlocked= \
+    ver=2.26.1 \
+    kcfg=2_26
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=ORACLE \
+    pkg_name=binutils-oracle \
+    pfx=BINUTILS_ORACLE \
+    versionlocked= \
+    ver=git-aa6fbb7a \
+    kcfg=GIT_AA6FBB7A
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=ORACLE \
+    pkg_name=binutils-oracle \
+    pfx=BINUTILS_ORACLE \
+    versionlocked= \
+    ver=git-43eccdca \
+    kcfg=GIT_43ECCDCA
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=ORACLE \
+    pkg_name=binutils-oracle \
+    pfx=BINUTILS_ORACLE \
+    versionlocked= \
+    ver=2.30 \
+    kcfg=2_30
+run_pkgversion \
+    master=binutils \
+    masterpfx=BINUTILS \
+    originpfx=ORACLE \
+    pkg_name=binutils-oracle \
+    pfx=BINUTILS_ORACLE \
+    versionlocked= \
+    ver=2.27 \
+    kcfg=2_27
+run_pkgversion \
+    master=bison \
+    masterpfx=BISON \
+    originpfx= \
+    pkg_name=bison \
+    pfx=BISON \
+    versionlocked= \
+    ver=3.8.2 \
+    kcfg=3_8
+run_pkgversion \
+    master=bison \
+    masterpfx=BISON \
+    originpfx= \
+    pkg_name=bison \
+    pfx=BISON \
+    versionlocked= \
+    ver=3.5 \
+    kcfg=3_5
+run_pkgversion \
+    master=bison \
+    masterpfx=BISON \
+    originpfx= \
+    pkg_name=bison \
+    pfx=BISON \
+    versionlocked= \
+    ver=3.4.2 \
+    kcfg=3_4
+run_pkgversion \
+    master=bison \
+    masterpfx=BISON \
+    originpfx= \
+    pkg_name=bison \
+    pfx=BISON \
+    versionlocked= \
+    ver=3.3.2 \
+    kcfg=3_3
+run_pkgversion \
+    master=bison \
+    masterpfx=BISON \
+    originpfx= \
+    pkg_name=bison \
+    pfx=BISON \
+    versionlocked= \
+    ver=3.2.4 \
+    kcfg=3_2
+run_pkgversion \
+    master=bison \
+    masterpfx=BISON \
+    originpfx= \
+    pkg_name=bison \
+    pfx=BISON \
+    versionlocked= \
+    ver=3.1 \
+    kcfg=3_1
+run_pkgversion \
+    master=bison \
+    masterpfx=BISON \
+    originpfx= \
+    pkg_name=bison \
+    pfx=BISON \
+    versionlocked= \
+    ver=3.0.5 \
+    kcfg=3_0
+run_pkgversion \
+    master=cloog \
+    masterpfx=CLOOG \
+    originpfx= \
+    pkg_name=cloog \
+    pfx=CLOOG \
+    versionlocked= \
+    ver=0.18.4 \
+    kcfg=0_18_4
+run_pkgversion \
+    master=cloog \
+    masterpfx=CLOOG \
+    originpfx= \
+    pkg_name=cloog \
+    pfx=CLOOG \
+    versionlocked= \
+    ver=0.18.1 \
+    kcfg=0_18_1
+run_pkgversion \
+    master=dtc \
+    masterpfx=DTC \
+    originpfx= \
+    pkg_name=dtc \
+    pfx=DTC \
+    versionlocked= \
+    ver=1.7.2 \
+    kcfg=1_7
+run_pkgversion \
+    master=dtc \
+    masterpfx=DTC \
+    originpfx= \
+    pkg_name=dtc \
+    pfx=DTC \
+    versionlocked= \
+    ver=1.6.1 \
+    kcfg=1_6
+run_pkgversion \
+    master=dtc \
+    masterpfx=DTC \
+    originpfx= \
+    pkg_name=dtc \
+    pfx=DTC \
+    versionlocked= \
+    ver=1.5.1 \
+    kcfg=1_5
+run_pkgversion \
+    master=dtc \
+    masterpfx=DTC \
+    originpfx= \
+    pkg_name=dtc \
+    pfx=DTC \
+    versionlocked= \
+    ver=1.4.7 \
+    kcfg=1_4
+run_pkgversion \
+    master=duma \
+    masterpfx=DUMA \
+    originpfx= \
+    pkg_name=duma \
+    pfx=DUMA \
+    versionlocked= \
+    ver=2_5_21 \
+    kcfg=2_5_21
+run_pkgversion \
+    master=elf2flt \
+    masterpfx=ELF2FLT \
+    originpfx= \
+    pkg_name=elf2flt \
+    pfx=ELF2FLT \
+    vcs=git \
+    repository_url=https://github.com/uclinux-dev/elf2flt.git \
+    repository_branch= \
+    repository_cset=679c94adf27c5cbc64a495554e6e807ac42422d3 \
+    repository_subdir=
+run_pkgversion \
+    master=expat \
+    masterpfx=EXPAT \
+    originpfx= \
+    pkg_name=expat \
+    pfx=EXPAT \
+    versionlocked= \
+    ver=2.7.1 \
+    kcfg=2_7
+run_pkgversion \
+    master=expat \
+    masterpfx=EXPAT \
+    originpfx= \
+    pkg_name=expat \
+    pfx=EXPAT \
+    versionlocked= \
+    ver=2.6.4 \
+    kcfg=2_6
+run_pkgversion \
+    master=expat \
+    masterpfx=EXPAT \
+    originpfx= \
+    pkg_name=expat \
+    pfx=EXPAT \
+    versionlocked= \
+    ver=2.5.0 \
+    kcfg=2_5
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=GNU \
+    pkg_name=gcc \
+    pfx=GCC \
+    versionlocked= \
+    ver=15.2.0 \
+    kcfg=15
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=GNU \
+    pkg_name=gcc \
+    pfx=GCC \
+    versionlocked= \
+    ver=14.3.0 \
+    kcfg=14
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=GNU \
+    pkg_name=gcc \
+    pfx=GCC \
+    versionlocked= \
+    ver=13.4.0 \
+    kcfg=13
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=GNU \
+    pkg_name=gcc \
+    pfx=GCC \
+    versionlocked= \
+    ver=12.5.0 \
+    kcfg=12
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=GNU \
+    pkg_name=gcc \
+    pfx=GCC \
+    versionlocked= \
+    ver=11.5.0 \
+    kcfg=11
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=GNU \
+    pkg_name=gcc \
+    pfx=GCC \
+    versionlocked= \
+    ver=10.5.0 \
+    kcfg=10
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=GNU \
+    pkg_name=gcc \
+    pfx=GCC \
+    versionlocked= \
+    ver=9.5.0 \
+    kcfg=9
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=GNU \
+    pkg_name=gcc \
+    pfx=GCC \
+    versionlocked= \
+    ver=8.5.0 \
+    kcfg=8
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=GNU \
+    pkg_name=gcc \
+    pfx=GCC \
+    versionlocked= \
+    ver=7.5.0 \
+    kcfg=7
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=GNU \
+    pkg_name=gcc \
+    pfx=GCC \
+    versionlocked= \
+    ver=6.5.0 \
+    kcfg=6
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=GNU \
+    pkg_name=gcc \
+    pfx=GCC \
+    versionlocked= \
+    ver=5.5.0 \
+    kcfg=5
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=GNU \
+    pkg_name=gcc \
+    pfx=GCC \
+    versionlocked= \
+    ver=4.9.4 \
+    kcfg=4_9
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=LINARO \
+    pkg_name=gcc-linaro \
+    pfx=GCC_LINARO \
+    versionlocked= \
+    ver=7.4-2019.02 \
+    kcfg=7
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=LINARO \
+    pkg_name=gcc-linaro \
+    pfx=GCC_LINARO \
+    versionlocked= \
+    ver=6.4-2018.05 \
+    kcfg=6
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=LINARO \
+    pkg_name=gcc-linaro \
+    pfx=GCC_LINARO \
+    versionlocked= \
+    ver=5.5-2017.10 \
+    kcfg=5
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=LINARO \
+    pkg_name=gcc-linaro \
+    pfx=GCC_LINARO \
+    versionlocked= \
+    ver=4.9-2017.01 \
+    kcfg=4_9
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=ORACLE \
+    pkg_name=gcc-oracle \
+    pfx=GCC_ORACLE \
+    versionlocked= \
+    ver=git-dbf713b5 \
+    kcfg=GIT_DBF713B5
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=ORACLE \
+    pkg_name=gcc-oracle \
+    pfx=GCC_ORACLE \
+    versionlocked= \
+    ver=11.3.1 \
+    kcfg=11
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=ORACLE \
+    pkg_name=gcc-oracle \
+    pfx=GCC_ORACLE \
+    versionlocked= \
+    ver=8.5.0 \
+    kcfg=8
+run_pkgversion \
+    master=gcc \
+    masterpfx=GCC \
+    originpfx=ORACLE \
+    pkg_name=gcc-oracle \
+    pfx=GCC_ORACLE \
+    versionlocked= \
+    ver=4.8.5 \
+    kcfg=4_8
+run_pkgversion \
+    master=gdb \
+    masterpfx=GDB \
+    originpfx=GNU \
+    pkg_name=gdb \
+    pfx=GDB \
+    versionlocked= \
+    ver=16.3 \
+    kcfg=16
+run_pkgversion \
+    master=gdb \
+    masterpfx=GDB \
+    originpfx=GNU \
+    pkg_name=gdb \
+    pfx=GDB \
+    versionlocked= \
+    ver=15.2 \
+    kcfg=15
+run_pkgversion \
+    master=gdb \
+    masterpfx=GDB \
+    originpfx=GNU \
+    pkg_name=gdb \
+    pfx=GDB \
+    versionlocked= \
+    ver=14.2 \
+    kcfg=14
+run_pkgversion \
+    master=gdb \
+    masterpfx=GDB \
+    originpfx=GNU \
+    pkg_name=gdb \
+    pfx=GDB \
+    versionlocked= \
+    ver=13.2 \
+    kcfg=13
+run_pkgversion \
+    master=gdb \
+    masterpfx=GDB \
+    originpfx=GNU \
+    pkg_name=gdb \
+    pfx=GDB \
+    versionlocked= \
+    ver=12.1 \
+    kcfg=12
+run_pkgversion \
+    master=gdb \
+    masterpfx=GDB \
+    originpfx=GNU \
+    pkg_name=gdb \
+    pfx=GDB \
+    versionlocked= \
+    ver=11.2 \
+    kcfg=11
+run_pkgversion \
+    master=gdb \
+    masterpfx=GDB \
+    originpfx=GNU \
+    pkg_name=gdb \
+    pfx=GDB \
+    versionlocked= \
+    ver=10.2 \
+    kcfg=10
+run_pkgversion \
+    master=gdb \
+    masterpfx=GDB \
+    originpfx=GNU \
+    pkg_name=gdb \
+    pfx=GDB \
+    versionlocked= \
+    ver=9.2 \
+    kcfg=9
+run_pkgversion \
+    master=gdb \
+    masterpfx=GDB \
+    originpfx=GNU \
+    pkg_name=gdb \
+    pfx=GDB \
+    versionlocked= \
+    ver=8.3.1 \
+    kcfg=8_3
+run_pkgversion \
+    master=gettext \
+    masterpfx=GETTEXT \
+    originpfx= \
+    pkg_name=gettext \
+    pfx=GETTEXT \
+    versionlocked= \
+    ver=0.26 \
+    kcfg=0_26
+run_pkgversion \
+    master=gettext \
+    masterpfx=GETTEXT \
+    originpfx= \
+    pkg_name=gettext \
+    pfx=GETTEXT \
+    versionlocked= \
+    ver=0.23.1 \
+    kcfg=0_23_1
+run_pkgversion \
+    master=gettext \
+    masterpfx=GETTEXT \
+    originpfx= \
+    pkg_name=gettext \
+    pfx=GETTEXT \
+    versionlocked= \
+    ver=0.22.5 \
+    kcfg=0_22_5
+run_pkgversion \
+    master=gettext \
+    masterpfx=GETTEXT \
+    originpfx= \
+    pkg_name=gettext \
+    pfx=GETTEXT \
+    versionlocked= \
+    ver=0.21 \
+    kcfg=0_21
+run_pkgversion \
+    master=gettext \
+    masterpfx=GETTEXT \
+    originpfx= \
+    pkg_name=gettext \
+    pfx=GETTEXT \
+    versionlocked= \
+    ver=0.20.1 \
+    kcfg=0_20_1
+run_pkgversion \
+    master=gettext \
+    masterpfx=GETTEXT \
+    originpfx= \
+    pkg_name=gettext \
+    pfx=GETTEXT \
+    versionlocked= \
+    ver=0.19.8.1 \
+    kcfg=0_19_8_1
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.42 \
+    kcfg=2_42
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.41 \
+    kcfg=2_41
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.40 \
+    kcfg=2_40
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.39 \
+    kcfg=2_39
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.38 \
+    kcfg=2_38
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.37 \
+    kcfg=2_37
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.36 \
+    kcfg=2_36
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.35 \
+    kcfg=2_35
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.34 \
+    kcfg=2_34
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.33 \
+    kcfg=2_33
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.32 \
+    kcfg=2_32
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.31 \
+    kcfg=2_31
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.30 \
+    kcfg=2_30
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.29 \
+    kcfg=2_29
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.28 \
+    kcfg=2_28
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.27 \
+    kcfg=2_27
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.26 \
+    kcfg=2_26
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.25 \
+    kcfg=2_25
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.24 \
+    kcfg=2_24
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.23 \
+    kcfg=2_23
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.19 \
+    kcfg=2_19
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=GNU \
+    pkg_name=glibc \
+    pfx=GLIBC \
+    versionlocked= \
+    ver=2.17 \
+    kcfg=2_17
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=ORACLE \
+    pkg_name=glibc-oracle \
+    pfx=GLIBC_ORACLE \
+    versionlocked= \
+    ver=2.28 \
+    kcfg=2_28
+run_pkgversion \
+    master=glibc \
+    masterpfx=GLIBC \
+    originpfx=ORACLE \
+    pkg_name=glibc-oracle \
+    pfx=GLIBC_ORACLE \
+    versionlocked= \
+    ver=2.17 \
+    kcfg=2_17
+run_pkgversion \
+    master=gmp \
+    masterpfx=GMP \
+    originpfx= \
+    pkg_name=gmp \
+    pfx=GMP \
+    versionlocked= \
+    ver=6.3.0 \
+    kcfg=6_3
+run_pkgversion \
+    master=gmp \
+    masterpfx=GMP \
+    originpfx= \
+    pkg_name=gmp \
+    pfx=GMP \
+    versionlocked= \
+    ver=6.2.1 \
+    kcfg=6_2
+run_pkgversion \
+    master=gmp \
+    masterpfx=GMP \
+    originpfx= \
+    pkg_name=gmp \
+    pfx=GMP \
+    versionlocked= \
+    ver=6.1.2 \
+    kcfg=6_1
+run_pkgversion \
+    master=gnuprumcu \
+    masterpfx=GNUPRUMCU \
+    originpfx=DINUX_EU \
+    pkg_name=gnuprumcu \
+    pfx=GNUPRUMCU \
+    versionlocked= \
+    ver=0.9.7 \
+    kcfg=0_9_7
+run_pkgversion \
+    master=gnuprumcu \
+    masterpfx=GNUPRUMCU \
+    originpfx=DINUX_EU \
+    pkg_name=gnuprumcu \
+    pfx=GNUPRUMCU \
+    versionlocked= \
+    ver=0.9.5 \
+    kcfg=0_9_5
+run_pkgversion \
+    master=gnuprumcu \
+    masterpfx=GNUPRUMCU \
+    originpfx=DINUX_EU \
+    pkg_name=gnuprumcu \
+    pfx=GNUPRUMCU \
+    versionlocked= \
+    ver=0.9.0 \
+    kcfg=0_9_0
+run_pkgversion \
+    master=isl \
+    masterpfx=ISL \
+    originpfx= \
+    pkg_name=isl \
+    pfx=ISL \
+    versionlocked= \
+    ver=0.27 \
+    kcfg=0_27
+run_pkgversion \
+    master=isl \
+    masterpfx=ISL \
+    originpfx= \
+    pkg_name=isl \
+    pfx=ISL \
+    versionlocked= \
+    ver=0.26 \
+    kcfg=0_26
+run_pkgversion \
+    master=isl \
+    masterpfx=ISL \
+    originpfx= \
+    pkg_name=isl \
+    pfx=ISL \
+    versionlocked= \
+    ver=0.25 \
+    kcfg=0_25
+run_pkgversion \
+    master=isl \
+    masterpfx=ISL \
+    originpfx= \
+    pkg_name=isl \
+    pfx=ISL \
+    versionlocked= \
+    ver=0.24 \
+    kcfg=0_24
+run_pkgversion \
+    master=isl \
+    masterpfx=ISL \
+    originpfx= \
+    pkg_name=isl \
+    pfx=ISL \
+    versionlocked= \
+    ver=0.23 \
+    kcfg=0_23
+run_pkgversion \
+    master=isl \
+    masterpfx=ISL \
+    originpfx= \
+    pkg_name=isl \
+    pfx=ISL \
+    versionlocked= \
+    ver=0.22.1 \
+    kcfg=0_22
+run_pkgversion \
+    master=isl \
+    masterpfx=ISL \
+    originpfx= \
+    pkg_name=isl \
+    pfx=ISL \
+    versionlocked= \
+    ver=0.21 \
+    kcfg=0_21
+run_pkgversion \
+    master=isl \
+    masterpfx=ISL \
+    originpfx= \
+    pkg_name=isl \
+    pfx=ISL \
+    versionlocked= \
+    ver=0.20 \
+    kcfg=0_20
+run_pkgversion \
+    master=isl \
+    masterpfx=ISL \
+    originpfx= \
+    pkg_name=isl \
+    pfx=ISL \
+    versionlocked= \
+    ver=0.19 \
+    kcfg=0_19
+run_pkgversion \
+    master=isl \
+    masterpfx=ISL \
+    originpfx= \
+    pkg_name=isl \
+    pfx=ISL \
+    versionlocked= \
+    ver=0.18 \
+    kcfg=0_18
+run_pkgversion \
+    master=isl \
+    masterpfx=ISL \
+    originpfx= \
+    pkg_name=isl \
+    pfx=ISL \
+    versionlocked= \
+    ver=0.17.1 \
+    kcfg=0_17
+run_pkgversion \
+    master=isl \
+    masterpfx=ISL \
+    originpfx= \
+    pkg_name=isl \
+    pfx=ISL \
+    versionlocked= \
+    ver=0.16.1 \
+    kcfg=0_16
+run_pkgversion \
+    master=isl \
+    masterpfx=ISL \
+    originpfx= \
+    pkg_name=isl \
+    pfx=ISL \
+    versionlocked= \
+    ver=0.15 \
+    kcfg=0_15
+run_pkgversion \
+    master=isl \
+    masterpfx=ISL \
+    originpfx= \
+    pkg_name=isl \
+    pfx=ISL \
+    versionlocked= \
+    ver=0.11.2 \
+    kcfg=0_11
+run_pkgversion \
+    master=libelf \
+    masterpfx=LIBELF \
+    originpfx= \
+    pkg_name=libelf \
+    pfx=LIBELF \
+    versionlocked= \
+    ver=0.8.13 \
+    kcfg=0_8
+run_pkgversion \
+    master=libiconv \
+    masterpfx=LIBICONV \
+    originpfx= \
+    pkg_name=libiconv \
+    pfx=LIBICONV \
+    versionlocked= \
+    ver=1.18 \
+    kcfg=1_18
+run_pkgversion \
+    master=libiconv \
+    masterpfx=LIBICONV \
+    originpfx= \
+    pkg_name=libiconv \
+    pfx=LIBICONV \
+    versionlocked= \
+    ver=1.16 \
+    kcfg=1_16
+run_pkgversion \
+    master=libiconv \
+    masterpfx=LIBICONV \
+    originpfx= \
+    pkg_name=libiconv \
+    pfx=LIBICONV \
+    versionlocked= \
+    ver=1.15 \
+    kcfg=1_15
+run_pkgversion \
+    master=libtool \
+    masterpfx=LIBTOOL \
+    originpfx= \
+    pkg_name=libtool \
+    pfx=LIBTOOL \
+    versionlocked= \
+    ver=2.5.4 \
+    kcfg=2_5
+run_pkgversion \
+    master=libtool \
+    masterpfx=LIBTOOL \
+    originpfx= \
+    pkg_name=libtool \
+    pfx=LIBTOOL \
+    versionlocked= \
+    ver=2.4.6 \
+    kcfg=2_4
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.16 \
+    kcfg=6_16
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.15.9 \
+    kcfg=6_15
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.14.11 \
+    kcfg=6_14
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.13.12 \
+    kcfg=6_13
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.12.41 \
+    kcfg=6_12
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.11.11 \
+    kcfg=6_11
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.10.14 \
+    kcfg=6_10
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.9.12 \
+    kcfg=6_9
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.8.12 \
+    kcfg=6_8
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.7.12 \
+    kcfg=6_7
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.6.101 \
+    kcfg=6_6
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.5.13 \
+    kcfg=6_5
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.4.16 \
+    kcfg=6_4
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.3.13 \
+    kcfg=6_3
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.2.16 \
+    kcfg=6_2
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.1.147 \
+    kcfg=6_1
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=6.0.12 \
+    kcfg=6_0
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.19.16 \
+    kcfg=5_19
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.18.15 \
+    kcfg=5_18
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.17.15 \
+    kcfg=5_17
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.16.20 \
+    kcfg=5_16
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.15.189 \
+    kcfg=5_15
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.14.18 \
+    kcfg=5_14
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.13.14 \
+    kcfg=5_13
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.12.16 \
+    kcfg=5_12
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.11.21 \
+    kcfg=5_11
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.10.240 \
+    kcfg=5_10
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.9.16 \
+    kcfg=5_9
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.8.18 \
+    kcfg=5_8
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.7.19 \
+    kcfg=5_7
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.5.19 \
+    kcfg=5_5
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.4.296 \
+    kcfg=5_4
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.3.18 \
+    kcfg=5_3
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.2.17 \
+    kcfg=5_2
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.1.21 \
+    kcfg=5_1
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=5.0.19 \
+    kcfg=5_0
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=4.20.17 \
+    kcfg=4_20
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=4.19.325 \
+    kcfg=4_19
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=4.18.20 \
+    kcfg=4_18
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=4.17.19 \
+    kcfg=4_17
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=4.16.18 \
+    kcfg=4_16
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=4.15.18 \
+    kcfg=4_15
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=4.14.329 \
+    kcfg=4_14
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=4.13.16 \
+    kcfg=4_13
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=4.12.14 \
+    kcfg=4_12
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=4.11.12 \
+    kcfg=4_11
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=4.10.17 \
+    kcfg=4_10
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=4.9.335 \
+    kcfg=4_9
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=4.4.302 \
+    kcfg=4_4
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=4.1.49 \
+    kcfg=4_1
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=3.18.139 \
+    kcfg=3_18
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=3.16.85 \
+    kcfg=3_16
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=3.13.11 \
+    kcfg=3_13
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=3.12.74 \
+    kcfg=3_12
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=3.10.108 \
+    kcfg=3_10
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=3.4.113 \
+    kcfg=3_4
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=3.2.101 \
+    kcfg=3_2
+run_pkgversion \
+    master=linux \
+    masterpfx=LINUX \
+    originpfx=WWW_KERNEL_ORG \
+    pkg_name=linux \
+    pfx=LINUX \
+    versionlocked= \
+    ver=2.6.32.71 \
+    kcfg=2_6_32
+run_pkgversion \
+    master=ltrace \
+    masterpfx=LTRACE \
+    originpfx= \
+    pkg_name=ltrace \
+    pfx=LTRACE \
+    versionlocked= \
+    ver=0.7.3 \
+    kcfg=0_7_3
+run_pkgversion \
+    master=m4 \
+    masterpfx=M4 \
+    originpfx= \
+    pkg_name=m4 \
+    pfx=M4 \
+    versionlocked= \
+    ver=1.4.20 \
+    kcfg=1_4
+run_pkgversion \
+    master=make \
+    masterpfx=MAKE \
+    originpfx= \
+    pkg_name=make \
+    pfx=MAKE \
+    versionlocked= \
+    ver=4.4.1 \
+    kcfg=4_4
+run_pkgversion \
+    master=make \
+    masterpfx=MAKE \
+    originpfx= \
+    pkg_name=make \
+    pfx=MAKE \
+    versionlocked= \
+    ver=4.3 \
+    kcfg=4_3
+run_pkgversion \
+    master=mingw-w64 \
+    masterpfx=MINGW_W64 \
+    originpfx= \
+    pkg_name=mingw-w64 \
+    pfx=MINGW_W64 \
+    versionlocked= \
+    ver=v13.0.0 \
+    kcfg=V13_0
+run_pkgversion \
+    master=mingw-w64 \
+    masterpfx=MINGW_W64 \
+    originpfx= \
+    pkg_name=mingw-w64 \
+    pfx=MINGW_W64 \
+    versionlocked= \
+    ver=v12.0.0 \
+    kcfg=V12_0
+run_pkgversion \
+    master=mingw-w64 \
+    masterpfx=MINGW_W64 \
+    originpfx= \
+    pkg_name=mingw-w64 \
+    pfx=MINGW_W64 \
+    versionlocked= \
+    ver=v11.0.1 \
+    kcfg=V11_0
+run_pkgversion \
+    master=mingw-w64 \
+    masterpfx=MINGW_W64 \
+    originpfx= \
+    pkg_name=mingw-w64 \
+    pfx=MINGW_W64 \
+    versionlocked= \
+    ver=v10.0.0 \
+    kcfg=V10_0
+run_pkgversion \
+    master=mingw-w64 \
+    masterpfx=MINGW_W64 \
+    originpfx= \
+    pkg_name=mingw-w64 \
+    pfx=MINGW_W64 \
+    versionlocked= \
+    ver=v9.0.0 \
+    kcfg=V9_0
+run_pkgversion \
+    master=mingw-w64 \
+    masterpfx=MINGW_W64 \
+    originpfx= \
+    pkg_name=mingw-w64 \
+    pfx=MINGW_W64 \
+    versionlocked= \
+    ver=v8.0.2 \
+    kcfg=V8_0
+run_pkgversion \
+    master=mingw-w64 \
+    masterpfx=MINGW_W64 \
+    originpfx= \
+    pkg_name=mingw-w64 \
+    pfx=MINGW_W64 \
+    versionlocked= \
+    ver=v7.0.0 \
+    kcfg=V7_0
+run_pkgversion \
+    master=mingw-w64 \
+    masterpfx=MINGW_W64 \
+    originpfx= \
+    pkg_name=mingw-w64 \
+    pfx=MINGW_W64 \
+    versionlocked= \
+    ver=v6.0.0 \
+    kcfg=V6_0
+run_pkgversion \
+    master=mingw-w64 \
+    masterpfx=MINGW_W64 \
+    originpfx= \
+    pkg_name=mingw-w64 \
+    pfx=MINGW_W64 \
+    versionlocked= \
+    ver=v5.0.4 \
+    kcfg=V5_0
+run_pkgversion \
+    master=mingw-w64 \
+    masterpfx=MINGW_W64 \
+    originpfx= \
+    pkg_name=mingw-w64 \
+    pfx=MINGW_W64 \
+    versionlocked= \
+    ver=v4.0.6 \
+    kcfg=V4_0
+run_pkgversion \
+    master=mold \
+    masterpfx=MOLD \
+    originpfx= \
+    pkg_name=mold \
+    pfx=MOLD \
+    versionlocked= \
+    ver=2.40.4 \
+    kcfg=2_40_4
+run_pkgversion \
+    master=mold \
+    masterpfx=MOLD \
+    originpfx= \
+    pkg_name=mold \
+    pfx=MOLD \
+    versionlocked= \
+    ver=2.39.1 \
+    kcfg=2_39_1
+run_pkgversion \
+    master=mold \
+    masterpfx=MOLD \
+    originpfx= \
+    pkg_name=mold \
+    pfx=MOLD \
+    versionlocked= \
+    ver=2.38.1 \
+    kcfg=2_38_1
+run_pkgversion \
+    master=mold \
+    masterpfx=MOLD \
+    originpfx= \
+    pkg_name=mold \
+    pfx=MOLD \
+    versionlocked= \
+    ver=2.37.1 \
+    kcfg=2_37_1
+run_pkgversion \
+    master=mold \
+    masterpfx=MOLD \
+    originpfx= \
+    pkg_name=mold \
+    pfx=MOLD \
+    versionlocked= \
+    ver=2.36.0 \
+    kcfg=2_36_0
+run_pkgversion \
+    master=mold \
+    masterpfx=MOLD \
+    originpfx= \
+    pkg_name=mold \
+    pfx=MOLD \
+    versionlocked= \
+    ver=2.33.0 \
+    kcfg=2_33_0
+run_pkgversion \
+    master=mold \
+    masterpfx=MOLD \
+    originpfx= \
+    pkg_name=mold \
+    pfx=MOLD \
+    versionlocked= \
+    ver=2.32.0 \
+    kcfg=2_32_0
+run_pkgversion \
+    master=mold \
+    masterpfx=MOLD \
+    originpfx= \
+    pkg_name=mold \
+    pfx=MOLD \
+    versionlocked= \
+    ver=2.31.0 \
+    kcfg=2_31_0
+run_pkgversion \
+    master=moxiebox \
+    masterpfx=MOXIEBOX \
+    originpfx= \
+    pkg_name=moxiebox \
+    pfx=MOXIEBOX \
+    vcs=git \
+    repository_url=https://github.com/jgarzik/moxiebox.git \
+    repository_branch= \
+    repository_cset=9a79ac546faa4196b66e279f8017814ba8d6fd4b \
+    repository_subdir=
+run_pkgversion \
+    master=mpc \
+    masterpfx=MPC \
+    originpfx= \
+    pkg_name=mpc \
+    pfx=MPC \
+    versionlocked= \
+    ver=1.3.1 \
+    kcfg=1_3
+run_pkgversion \
+    master=mpfr \
+    masterpfx=MPFR \
+    originpfx= \
+    pkg_name=mpfr \
+    pfx=MPFR \
+    versionlocked= \
+    ver=4.2.2 \
+    kcfg=4_2
+run_pkgversion \
+    master=musl \
+    masterpfx=MUSL \
+    originpfx= \
+    pkg_name=musl \
+    pfx=MUSL \
+    versionlocked= \
+    ver=1.2.5 \
+    kcfg=1_2_5
+run_pkgversion \
+    master=musl \
+    masterpfx=MUSL \
+    originpfx= \
+    pkg_name=musl \
+    pfx=MUSL \
+    versionlocked= \
+    ver=1.2.4 \
+    kcfg=1_2_4
+run_pkgversion \
+    master=musl \
+    masterpfx=MUSL \
+    originpfx= \
+    pkg_name=musl \
+    pfx=MUSL \
+    versionlocked= \
+    ver=1.2.3 \
+    kcfg=1_2_3
+run_pkgversion \
+    master=musl \
+    masterpfx=MUSL \
+    originpfx= \
+    pkg_name=musl \
+    pfx=MUSL \
+    versionlocked= \
+    ver=1.2.2 \
+    kcfg=1_2_2
+run_pkgversion \
+    master=musl \
+    masterpfx=MUSL \
+    originpfx= \
+    pkg_name=musl \
+    pfx=MUSL \
+    versionlocked= \
+    ver=1.2.1 \
+    kcfg=1_2_1
+run_pkgversion \
+    master=musl \
+    masterpfx=MUSL \
+    originpfx= \
+    pkg_name=musl \
+    pfx=MUSL \
+    versionlocked= \
+    ver=1.1.24 \
+    kcfg=1_1_24
+run_pkgversion \
+    master=musl \
+    masterpfx=MUSL \
+    originpfx= \
+    pkg_name=musl \
+    pfx=MUSL \
+    versionlocked= \
+    ver=1.1.23 \
+    kcfg=1_1_23
+run_pkgversion \
+    master=musl \
+    masterpfx=MUSL \
+    originpfx= \
+    pkg_name=musl \
+    pfx=MUSL \
+    versionlocked= \
+    ver=1.1.22 \
+    kcfg=1_1_22
+run_pkgversion \
+    master=musl \
+    masterpfx=MUSL \
+    originpfx= \
+    pkg_name=musl \
+    pfx=MUSL \
+    versionlocked= \
+    ver=1.1.21 \
+    kcfg=1_1_21
+run_pkgversion \
+    master=musl \
+    masterpfx=MUSL \
+    originpfx= \
+    pkg_name=musl \
+    pfx=MUSL \
+    versionlocked= \
+    ver=1.1.20 \
+    kcfg=1_1_20
+run_pkgversion \
+    master=musl \
+    masterpfx=MUSL \
+    originpfx= \
+    pkg_name=musl \
+    pfx=MUSL \
+    versionlocked= \
+    ver=1.1.19 \
+    kcfg=1_1_19
+run_pkgversion \
+    master=musl \
+    masterpfx=MUSL \
+    originpfx= \
+    pkg_name=musl \
+    pfx=MUSL \
+    versionlocked= \
+    ver=1.1.18 \
+    kcfg=1_1_18
+run_pkgversion \
+    master=musl \
+    masterpfx=MUSL \
+    originpfx= \
+    pkg_name=musl \
+    pfx=MUSL \
+    versionlocked= \
+    ver=1.1.17 \
+    kcfg=1_1_17
+run_pkgversion \
+    master=musl \
+    masterpfx=MUSL \
+    originpfx= \
+    pkg_name=musl \
+    pfx=MUSL \
+    versionlocked= \
+    ver=1.1.16 \
+    kcfg=1_1_16
+run_pkgversion \
+    master=ncurses \
+    masterpfx=NCURSES \
+    originpfx= \
+    pkg_name=ncurses \
+    pfx=NCURSES \
+    versionlocked= \
+    ver=6.5 \
+    kcfg=6_5
+run_pkgversion \
+    master=ncurses \
+    masterpfx=NCURSES \
+    originpfx= \
+    pkg_name=ncurses \
+    pfx=NCURSES \
+    versionlocked= \
+    ver=6.4 \
+    kcfg=6_4
+run_pkgversion \
+    master=ncurses \
+    masterpfx=NCURSES \
+    originpfx= \
+    pkg_name=ncurses \
+    pfx=NCURSES \
+    versionlocked= \
+    ver=6.2 \
+    kcfg=6_2
+run_pkgversion \
+    master=ncurses \
+    masterpfx=NCURSES \
+    originpfx= \
+    pkg_name=ncurses \
+    pfx=NCURSES \
+    versionlocked= \
+    ver=6.1 \
+    kcfg=6_1
+run_pkgversion \
+    master=ncurses \
+    masterpfx=NCURSES \
+    originpfx= \
+    pkg_name=ncurses \
+    pfx=NCURSES \
+    versionlocked= \
+    ver=6.0 \
+    kcfg=6_0
+run_pkgversion \
+    master=newlib-nano \
+    masterpfx=NEWLIB_NANO \
+    originpfx=REDHAT \
+    pkg_name=newlib-nano \
+    pfx=NEWLIB_NANO \
+    versionlocked= \
+    ver=4.5.0.20241231 \
+    kcfg=4_5
+run_pkgversion \
+    master=newlib-nano \
+    masterpfx=NEWLIB_NANO \
+    originpfx=REDHAT \
+    pkg_name=newlib-nano \
+    pfx=NEWLIB_NANO \
+    versionlocked= \
+    ver=4.4.0.20231231 \
+    kcfg=4_4
+run_pkgversion \
+    master=newlib-nano \
+    masterpfx=NEWLIB_NANO \
+    originpfx=REDHAT \
+    pkg_name=newlib-nano \
+    pfx=NEWLIB_NANO \
+    versionlocked= \
+    ver=4.3.0.20230120 \
+    kcfg=4_3
+run_pkgversion \
+    master=newlib-nano \
+    masterpfx=NEWLIB_NANO \
+    originpfx=REDHAT \
+    pkg_name=newlib-nano \
+    pfx=NEWLIB_NANO \
+    versionlocked= \
+    ver=4.2.0.20211231 \
+    kcfg=4_2
+run_pkgversion \
+    master=newlib \
+    masterpfx=NEWLIB \
+    originpfx=REDHAT \
+    pkg_name=newlib \
+    pfx=NEWLIB \
+    versionlocked= \
+    ver=4.5.0.20241231 \
+    kcfg=4_5
+run_pkgversion \
+    master=newlib \
+    masterpfx=NEWLIB \
+    originpfx=REDHAT \
+    pkg_name=newlib \
+    pfx=NEWLIB \
+    versionlocked= \
+    ver=4.4.0.20231231 \
+    kcfg=4_4
+run_pkgversion \
+    master=newlib \
+    masterpfx=NEWLIB \
+    originpfx=REDHAT \
+    pkg_name=newlib \
+    pfx=NEWLIB \
+    versionlocked= \
+    ver=4.3.0.20230120 \
+    kcfg=4_3
+run_pkgversion \
+    master=newlib \
+    masterpfx=NEWLIB \
+    originpfx=REDHAT \
+    pkg_name=newlib \
+    pfx=NEWLIB \
+    versionlocked= \
+    ver=4.2.0.20211231 \
+    kcfg=4_2
+run_pkgversion \
+    master=picolibc \
+    masterpfx=PICOLIBC \
+    originpfx=KEITHP_COM \
+    pkg_name=picolibc \
+    pfx=PICOLIBC \
+    versionlocked= \
+    ver=1.8.10 \
+    kcfg=1_8
+run_pkgversion \
+    master=strace \
+    masterpfx=STRACE \
+    originpfx= \
+    pkg_name=strace \
+    pfx=STRACE \
+    versionlocked= \
+    ver=6.16 \
+    kcfg=6_16
+run_pkgversion \
+    master=strace \
+    masterpfx=STRACE \
+    originpfx= \
+    pkg_name=strace \
+    pfx=STRACE \
+    versionlocked= \
+    ver=6.13 \
+    kcfg=6_13
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.54 \
+    kcfg=1_0_54
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.52 \
+    kcfg=1_0_52
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.50 \
+    kcfg=1_0_50
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.49 \
+    kcfg=1_0_49
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.48 \
+    kcfg=1_0_48
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.43 \
+    kcfg=1_0_43
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.42 \
+    kcfg=1_0_42
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.39 \
+    kcfg=1_0_39
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.38 \
+    kcfg=1_0_38
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.36 \
+    kcfg=1_0_36
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.33 \
+    kcfg=1_0_33
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.32 \
+    kcfg=1_0_32
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.31 \
+    kcfg=1_0_31
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.30 \
+    kcfg=1_0_30
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.29 \
+    kcfg=1_0_29
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.28 \
+    kcfg=1_0_28
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.27 \
+    kcfg=1_0_27
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.26 \
+    kcfg=1_0_26
+run_pkgversion \
+    master=uClibc-ng \
+    masterpfx=UCLIBC_NG \
+    originpfx=UCLIBC_NG_ORG \
+    pkg_name=uClibc-ng \
+    pfx=UCLIBC_NG \
+    versionlocked= \
+    ver=1.0.25 \
+    kcfg=1_0_25
+run_pkgversion \
+    master=zlib \
+    masterpfx=ZLIB \
+    originpfx= \
+    pkg_name=zlib \
+    pfx=ZLIB \
+    versionlocked= \
+    ver=1.3.1 \
+    kcfg=1_3_1
+run_pkgversion \
+    master=zlib \
+    masterpfx=ZLIB \
+    originpfx= \
+    pkg_name=zlib \
+    pfx=ZLIB \
+    versionlocked= \
+    ver=1.2.13 \
+    kcfg=1_2_13
+run_pkgversion \
+    master=zstd \
+    masterpfx=ZSTD \
+    originpfx= \
+    pkg_name=zstd \
+    pfx=ZSTD \
+    versionlocked= \
+    ver=1.5.7 \
+    kcfg=1_5_7
+run_pkgversion \
+    master=zstd \
+    masterpfx=ZSTD \
+    originpfx= \
+    pkg_name=zstd \
+    pfx=ZSTD \
+    versionlocked= \
+    ver=1.5.6 \
+    kcfg=1_5_6
+run_pkgversion \
+    master=zstd \
+    masterpfx=ZSTD \
+    originpfx= \
+    pkg_name=zstd \
+    pfx=ZSTD \
+    versionlocked= \
+    ver=1.5.5 \
+    kcfg=1_5_5
+run_pkgversion \
+    master=zstd \
+    masterpfx=ZSTD \
+    originpfx= \
+    pkg_name=zstd \
+    pfx=ZSTD \
+    versionlocked= \
+    ver=1.5.2 \
+    kcfg=1_5_2

@@ -1,0 +1,90 @@
+name: Build
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build ${{ matrix.target }}
+    runs-on: ubuntu-latest
+    container: ubuntu:20.04
+
+    strategy:
+      fail-fast: true
+      matrix:
+        target:
+          - aarch64-unknown-linux-musl
+          - arm-unknown-linux-musleabi
+          - i586-unknown-linux-musl
+          - mipsel-unknown-linux-muslsf
+          - mips-unknown-linux-muslsf
+          - mips64el-unknown-linux-musl
+          - mips64-unknown-linux-musl
+          - powerpc-unknown-linux-musl
+          - riscv64-unknown-linux-musl
+          - x86_64-unknown-linux-musl
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: false
+
+      - name: Install deps
+        run: |
+          ln -fs /usr/share/zoneinfo/Etc/UTC /etc/localtime
+          apt update -qq
+          apt install -y -qq sudo
+
+      - name: Build
+        run: |
+          export DEBIAN_FRONTEND=noninteractive
+          sudo rm -rf /opt/*
+          ./scripts/make ${{ matrix.target }}
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.target }}
+          path: ./**/${{ matrix.target }}.tar.xz
+
+  release:
+    needs: build
+    permissions:
+      contents: write
+    env:
+      tag_name: latest
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: release
+
+      - name: Generate checksums
+        run: |
+          find ./release -type f -name '*.tar.xz' -exec mv {} . \;
+          rm -rf release
+          printf "| %s | %s |\n" Filename sha256sum --- --- > body.txt
+          for i in *.tar.xz ; do
+            printf "| %s | %s |\n" "$i" $(sha256sum $i | tee -a sha256sums.txt | awk '{print $1}') >> body.txt
+          done
+
+      - name: Delete existing release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "DATE=$(gh api repos/${{ github.repository }}/commits/${{ github.sha }} --jq '.commit.committer.date' | date -f - +%Y%m%d)" >> $GITHUB_ENV
+          gh release delete ${{ env.tag_name }} --cleanup-tag -y -R ${{ github.repository }} || true
+
+      - name: Upload release assets
+        uses: softprops/action-gh-release@v2
+        with:
+          fail_on_unmatched_files: true
+          prerelease: false
+          draft: false
+          tag_name: ${{ env.tag_name }}
+          name: ${{ env.DATE }}
+          body_path: body.txt
+          files: |
+            *.tar.xz
+            sha256sums.txt
