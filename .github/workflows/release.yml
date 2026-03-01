@@ -1,0 +1,68 @@
+name: Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      delete_release:
+        description: 'Delete existing release?'
+        required: true
+        default: 'no'
+        type: choice
+        options:
+        - yes
+        - no
+      prerelease:
+        description: 'Pre-release'
+        required: true
+        default: 'no'
+        type: choice
+        options:
+        - yes
+        - no
+
+jobs:
+  release:
+    permissions:
+      contents: write
+    env:
+      tag_name: latest
+    runs-on: ubuntu-latest
+    steps:
+      - name: GH
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "RUN_ID=$(gh run list --json databaseId --workflow build.yml --limit 1 -q '.[0].databaseId' -R ${{ github.repository }})" >> $GITHUB_ENV
+          echo "DATE=$(gh api repos/${{ github.repository }}/commits/${{ github.sha }} --jq '.commit.committer.date' | date -f - +%Y%m%d)" >> $GITHUB_ENV
+
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ env.RUN_ID }}
+          merge-multiple: true
+
+      - name: Generate checksums
+        run: |
+          printf "| %s | %s |\n" Filename sha256sum --- --- > body.txt
+          for i in *.tar.xz ; do
+            printf "| %s | %s |\n" "$i" $(sha256sum $i | tee -a sha256sums.txt | awk '{print $1}') >> body.txt
+          done
+
+      - name: Delete existing release
+        if: inputs.delete_release == 'yes'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release delete ${{ env.tag_name }} --cleanup-tag -y -R ${{ github.repository }} || true
+
+      - name: Upload release assets
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          prerelease: ${{ inputs.prerelease == 'yes' && 'true' || 'false' }}
+          tag: ${{ inputs.prerelease == 'yes' && env.DATE || env.tag_name }}
+          # commit: ${{ github.sha }}
+          name: ${{ env.DATE }}
+          bodyFile: body.txt
+          artifacts: '*.tar.xz,sha256sums.txt'
